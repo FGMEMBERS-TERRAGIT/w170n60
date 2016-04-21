@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/ndb.ac -161.872758 60.791306 43.76 180
+OBJECT_SHARED Models/Airport/ndb.ac -161.821381 60.796636 12.57 180
+OBJECT_SHARED Models/Power/windturbine.xml -161.812222 60.785833 -75.29 180
+OBJECT_SHARED Models/Airport/ils.xml -161.829197 60.785139 29.02 160.18
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.885556 60.781667 -88.44 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.876389 60.791944 -139.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.872778 60.791111 -111.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.789444 60.805278 -161.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.775083 60.79175 -118.9 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -161.763056 60.793889 -117.77 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -161.847606 60.76855 27.25 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -161.824342 60.784833 21.98 180
+OBJECT_SHARED Models/Airport/marker.ac -161.821425 60.796642 12.58 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -161.833611 60.788333 -454.36 180
+OBJECT_SHARED Models/Airport/localizer.xml -161.846411 60.768492 27.49 293.42
